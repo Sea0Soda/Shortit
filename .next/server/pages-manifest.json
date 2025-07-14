@@ -2,8 +2,16 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/qrcodes/[id]": "pages/qrcodes/[id].js",
+  "/api/qrcodes": "pages/api/qrcodes.js",
+  "/api/qrcodes/[id]": "pages/api/qrcodes/[id].js",
+  "/api/short-links/[id]": "pages/api/short-links/[id].js",
+  "/api/short-links": "pages/api/short-links.js",
   "/": "pages/index.js",
+  "/qrcodes/new": "pages/qrcodes/new.js",
+  "/short-links/new": "pages/short-links/new.js",
   "/qrcodes": "pages/qrcodes.js",
-  "/api/qrcodes/[id]": "pages/api/qrcodes/[id].js"
+  "/[shortUrl]": "pages/[shortUrl].js",
+  "/qrcodes/[id]": "pages/qrcodes/[id].js",
+  "/short-links/[id]": "pages/short-links/[id].js",
+  "/short-links": "pages/short-links.js"
 }
