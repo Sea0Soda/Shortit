@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/qrcodes/[id]": "pages/qrcodes/[id].js",
+  "/": "pages/index.js",
+  "/qrcodes": "pages/qrcodes.js",
+  "/api/qrcodes/[id]": "pages/api/qrcodes/[id].js"
+}
